@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 It's Me Arya Pratama Putra</h1>
 
-<!--
+
 **AryaPratamaPutra-10/AryaPratamaPutra-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,13 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **aryaaja6104@gmail.com**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <h2 align="center">About Me</h2>
 
 <p1 align="center">I will graduate in 2022 from Senior High School Ulil Albab, Batam, Riau Islands </p1>
 
 <p2 align="center">Hi I'm Arya Pratama Putra, I'm a student majoring in Information Engineering, Multimedia Engineering Study Program at Batam State Polytechnic, Batam, Riau Islands </p2>
+
+<h3 align="center">
 
 
 <p align="center">
