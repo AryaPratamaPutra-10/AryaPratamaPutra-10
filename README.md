@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 It's Me Arya Pratama Putra</h1>
 
-
+<!--
 **AryaPratamaPutra-10/AryaPratamaPutra-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **aryaaja6104@gmail.com**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 <h2 align="center">About Me</h2>
 
