@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h2 align="center">About</h2>
+
 <a href="https://www.linkedin.com/in/arya-pratama-putra-910772250/" target="blank"><img align="center" src="LinkeidnIcon.png" height="30" width="30" /> </a>
