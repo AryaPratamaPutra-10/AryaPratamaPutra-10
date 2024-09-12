@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 <p2 align="center">Hi I'm Arya Pratama Putra, I'm a student majoring in Information Engineering, Multimedia Engineering Study Program at Batam State Polytechnic, Batam, Riau Islands </p2>
 
 
-
-<a href="https://www.linkedin.com/in/arya-pratama-putra-910772250/" target="blank"><img align="center" src="LinkeidnIcon.png" height="30" width="30" /> </a>
-
 <p align="center">
+<a href="https://www.linkedin.com/in/arya-pratama-putra-910772250/" target="blank"><img align="center" src="LinkeidnIcon.png" height="30" width="30" /> </a>
 <a href="https://www.instagram.com/aryapratamaaputra?igsh=MW93M3Vtbjc5c3k5Zg%3D%3D&utm_source=qr" target="blank"><img align="center" src="InstagramIcon.png" height="30" width="30" /> </a>
 </p>
