@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning at Batam State Polytechnic
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">About</h2>
+<h2 align="center">About Me</h2>
+
+<p1 align="center">I will graduate in 2022 from Senior High School Ulil Albab, Batam, Riau Islands </p1>
+
+<p2 align="center">Hi I'm Arya Pratama Putra, I'm a student majoring in Information Engineering, Multimedia Engineering Study Program at Batam State Polytechnic, Batam, Riau Islands </p2>
+
+
 
 <a href="https://www.linkedin.com/in/arya-pratama-putra-910772250/" target="blank"><img align="center" src="LinkeidnIcon.png" height="30" width="30" /> </a>
