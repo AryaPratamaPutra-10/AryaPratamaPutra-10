@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://www.linkedin.com/in/arya-pratama-putra-910772250/" target="blank"><img align="center" src="https://icons8.com/icons/set/linkedin" height="30" width="30" /> </a>
+<a href="https://www.linkedin.com/in/arya-pratama-putra-910772250/" target="blank"><img align="center" src="LinkeidnIcon.png" height="30" width="30" /> </a>
 
-<a href="https://www.instagram.com/aryapratamaaputra?igsh=MW93M3Vtbjc5c3k5Zg%3D%3D&utm_source=qr" target="blank"><img align >
+<a href="https://www.instagram.com/aryapratamaaputra?igsh=MW93M3Vtbjc5c3k5Zg%3D%3D&utm_source=qr" target="blank"><img align="center" src="InstagramIcon.png" height="30" width="30" /> </a>
