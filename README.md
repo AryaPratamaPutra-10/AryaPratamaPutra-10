@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" height="40" alt="html logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" height="40" alt="css logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/cs3s-original.svg" height="40" alt="css logo" />
 
 
 
