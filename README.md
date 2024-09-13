@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 
 <h2 align="center">About Me</h2>
 
-<p1 align="center">I will graduate in 2022 from Senior High School Ulil Albab, Batam, Riau Islands </p1>
+<p1 align="center">Hii I'm Arya Pratama Putra, I will graduate in 2022 from Senior High School Ulil Albab, Batam, Riau Islands </p1>
 
-<p2 align="center">Hi I'm Arya Pratama Putra, I'm a student majoring in Information Engineering, Multimedia Engineering Study Program at Batam State Polytechnic, Batam, Riau Islands </p2>
+<p2 align="center"> Now, I still am student majoring in Information Engineering, Multimedia Engineering Study Program at Batam State Polytechnic, Batam, Riau Islands </p2>
 
-<h3 align="center">
+<h3 align="center">My Experience</h3>
+<p1 align="center">2023 - Volunteer Tour De Batam, Bicycle event held in Batam City from 22 - 24 September 2023 </p1>
 
 
 <p align="center">
