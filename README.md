@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 <p1 align="center">2023 - Volunteer Tour De Batam, Bicycle event held in Batam City from 22 - 24 September 2023 </p1>
 
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/arya-pratama-putra-910772250/" target="blank"><img align="center" src="IconFlutter.png" height="30" width="30" /> </a>
+
 <a href="https://www.instagram.com/aryapratamaaputra?igsh=MW93M3Vtbjc5c3k5Zg%3D%3D&utm_source=qr" target="blank"><img align="center" src="InstagramIcon.png" height="30" width="30" /> </a>
 </p>
