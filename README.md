@@ -22,8 +22,12 @@ Here are some ideas to get you started:
 <p2 align="center"> Now, I am a student majoring in Information Engineering, Multimedia Engineering Study Program at Batam State Polytechnic, Batam, Riau Islands </p2>
 </div>
 
+<div>
 <h3 align="center">My Experience</h3>
 <p1 align="center">2023 - Volunteer Tour De Batam, Bicycle event held in Batam City from 22 - 24 September 2023 </p1>
+
+
+</div>
 
 
 ###
@@ -33,5 +37,14 @@ Here are some ideas to get you started:
 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" height="40" alt="html logo" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" height="40" alt="css logo" />
+
+
+
 
 </div>
