@@ -47,9 +47,16 @@ Here are some ideas to get you started:
 <p1 align="left"> - Information system web application about the Riau Islands called Web Kesah Kepri
 I worked on this project with a team and I was the team leader as well as being the front end of the web and handling the database on the project</p1>
 <p2 align="left"> Use Laravel, HTML, CSS, JS, PHP, MySQL </p2>
-<a href="https://drive.google.com/folderview?id=1eKAGr_WS5Tz6joFFYB4JlMOhTnDPC1br">Produk Web Kesah Kepri </a>
+<a href="https://drive.google.com/folderview?id=1eKAGr_WS5Tz6joFFYB4JlMOhTnDPC1br">Product Web Kesah Kepri </a>
 
-<p3 align="left">
+<p3 align="left"> -  Video Bulletin Production for the Riau Islands MSME Service
+I worked on this project with a team and my job is videographer, video editor and script writer</p3>
+<p4 align="left"> Use Camera, Adobe Premiere Pro, After Effects </p4>
+
+<p5 align="left"> - IoT Based Automatic Fish Feeder Application (Spellet)
+This project was carried out with the PBL team, my work here was to create coding for IoT and the Front End of the Spellet application with Flutter </p5>
+<p6 align="left"> Use Flutter, dart, C++, Arduino </p6>
+<a href="https://drive.google.com/drive/folders/1cUuO2KHJ1WQOu-zUEhvpeCEke5imtrC0?usp=share_link">Product Spellet</a>
 
 
 ###
@@ -74,7 +81,7 @@ I worked on this project with a team and I was the team leader as well as being 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo" />
 
