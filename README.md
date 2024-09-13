@@ -41,6 +41,16 @@ Here are some ideas to get you started:
 
 </div>
 
+<div>
+<h2 align="center">My Project</h2>
+
+<p1 align="left"> - Information system web application about the Riau Islands called Web Kesah Kepri
+I worked on this project with a team and I was the team leader as well as being the front end of the web and handling the database on the project</p1>
+<p2 align="left"> Use Laravel, HTML, CSS, JS, PHP, MySQL </p2>
+<a href="https://drive.google.com/folderview?id=1eKAGr_WS5Tz6joFFYB4JlMOhTnDPC1br">Produk Web Kesah Kepri </a>
+
+<p3 align="left">
+
 
 ###
 <h3 align="center">Skill & Languange</h3>
@@ -91,6 +101,6 @@ Here are some ideas to get you started:
   </a>
 
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  
+
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
 </div>
