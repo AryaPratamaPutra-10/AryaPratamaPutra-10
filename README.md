@@ -14,19 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div>
 <h2 align="center">About Me</h2>
 
 <p1 align="center">Hii I'm Arya Pratama Putra, I will graduate in 2022 from Senior High School Ulil Albab, Batam, Riau Islands </p1>
 
 <p2 align="center"> Now, I am a student majoring in Information Engineering, Multimedia Engineering Study Program at Batam State Polytechnic, Batam, Riau Islands </p2>
+</div>
 
 <h3 align="center">My Experience</h3>
 <p1 align="center">2023 - Volunteer Tour De Batam, Bicycle event held in Batam City from 22 - 24 September 2023 </p1>
 
 
-<p>
-<a href="https://www.linkedin.com/in/arya-pratama-putra-910772250/" target="blank"><img align="center" src="IconFlutter.png" height="30" width="30" /> </a>
+###
+<h3 align="center">Skill & Languange</h3>
 
-<a href="https://www.instagram.com/aryapratamaaputra?igsh=MW93M3Vtbjc5c3k5Zg%3D%3D&utm_source=qr" target="blank"><img align="center" src="InstagramIcon.png" height="30" width="30" /> </a>
-</p>
+###
+
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
+
+</div>
