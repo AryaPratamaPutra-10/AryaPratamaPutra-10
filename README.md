@@ -1,4 +1,9 @@
+<div align="center">
+<img height="200" src="Arya.JPG" />
+</div>
+
 <h1 align="center">Hi there 👋 It's Me Arya Pratama Putra</h1>
+
 
 <!--
 **AryaPratamaPutra-10/AryaPratamaPutra-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +29,7 @@ Here are some ideas to get you started:
 
 <div>
 <h3 align="center">My Experience</h3>
+
 <p1 align="center">2023 - Volunteer Tour De Batam, Bicycle event held in Batam City from 22 - 24 September 2023 </p1>
 
 
