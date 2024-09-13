@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<a target="blank"><img align="center" src="<a target="_blank" href="https://icons8.com/icon/7I3BjCqe9rjG/flutter">Flutter</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>" height="30" width="30" /> </a>
+<a href="https://www.linkedin.com/in/arya-pratama-putra-910772250/" target="blank"><img align="center" src="IconFlutter.png" height="30" width="30" /> </a>
 <a href="https://www.instagram.com/aryapratamaaputra?igsh=MW93M3Vtbjc5c3k5Zg%3D%3D&utm_source=qr" target="blank"><img align="center" src="InstagramIcon.png" height="30" width="30" /> </a>
 </p>
