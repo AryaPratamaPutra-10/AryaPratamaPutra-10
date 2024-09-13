@@ -2,7 +2,9 @@
 <img height="200" src="Arya.JPG" />
 </div>
 
+</div align="center">
 <h1 align="center">Hi there 👋 It's Me Arya Pratama Putra</h1>
+</div>
 
 
 <!--
@@ -19,6 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div>
 <h2 align="center">About Me</h2>
 
