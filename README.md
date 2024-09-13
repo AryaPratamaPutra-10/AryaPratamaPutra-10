@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/cs3s-original.svg" height="40" alt="css logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
 
 
 
